@@ -7,7 +7,7 @@
         { href: "/promo/", text: "Promo" },
         { href: "/app/", text: "App" },
         { href: "/games/", text: "Games" },
-        { href: "/cripto/", text: "Cripto" },
+        { href: "/crypto/", text: "Crypto" },
         { href: "/review/", text: "Review" },
         { href: "/no deposit/", text: "No Deposit" },
     ];
