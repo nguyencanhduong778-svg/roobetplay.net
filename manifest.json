@@ -1,0 +1,19 @@
+{
+    "name": "Roobet Casino \u2013 Play & Win Big in Canada | Casino Roobet",
+    "short_name": "Roobet Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Roobet Casino offers top Canadian gaming fun | Roobet Casino Canada gives bonuses, fast payouts & fair play \u2014 join now and start winning!",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
